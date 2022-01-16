@@ -1,6 +1,6 @@
 # Contador regresivo. 
 
-El usuario introduce un fecha y te muestra el tiempo que falta para llegar a ella. También muestra el tiempo que falta para que inicie el año 2023. 
+El usuario introduce una fecha y te muestra el tiempo que falta para llegar a ella. También muestra el tiempo que falta para que inicie el año 2023. 
 
 
 ## Construido con 🛠️
